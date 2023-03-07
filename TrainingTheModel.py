@@ -52,7 +52,7 @@ class SVC_Algorithm:
 
 
 
-#data = pd.read_csv(r"C:\Users\ARAS STORE\Desktop\DataSet\kurdish_alphabetical.csv")
+#data = pd.read_csv(r"kurdish_alphabetical.csv")
 #model = SVC_Algorithm(data)
 #model.splitting_x_y()
 #model.feature_scaling()
